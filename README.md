@@ -35,7 +35,6 @@ A machine learning-based assessment of water quality across Indian aquatic syste
 
 ### Data Scaling and Preprocessing
 - StandardScaler
-- MinMaxScaler
 
 ### Development Environment
 - Jupyter Notebook
@@ -57,9 +56,9 @@ National Data Analytics Platform (NDAP), NITI Aayog
 - Jupyter Notebook
 
 ## Key Results
-- 98.48% classification accuracy
 - 3 pollution clusters identified
 - 10% anomaly detection
+- 
 
 ## Repository Structure
 data_preprocessing/
