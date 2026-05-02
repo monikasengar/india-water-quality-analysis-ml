@@ -60,12 +60,4 @@ National Data Analytics Platform (NDAP), NITI Aayog
 - 10% anomaly detection
 - 
 
-## Repository Structure
-data_preprocessing/
-exploratory_analysis/
-ml_models/
-visualizations/
-report/
 
-## Author
-[Your Name]
